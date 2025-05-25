@@ -21,12 +21,12 @@
 
 ---
 
-### 🚀 Projects
+###  Projects
 
 - 🔍 **[Lens-n-Light](https://github.com/WalidTheDev/Lens-n-Light)**  
   *Camera rental platform*
 
-- 📊 **[DataLab](https://github.com/WalidTheDev/DataLab)**  
+- 📊 **[DataLab](https://github.com/WalidTheDev/DataLab-Frontend)**  
   *Interactive data visualization platform for rapid exploration*
 
 ---
