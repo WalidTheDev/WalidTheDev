@@ -1,9 +1,19 @@
 <h1 align="center">Hi 👋, I'm Walid</h1>
-<h3 align="center">MERN Stack Developer | Python  Enthusiast</h3>
+<h3 align="center">MERN Stack Developer | Python Enthusiast </h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=F7F7F7&center=true&vCenter=true&width=435&lines=Passionate+Full-stack+Web+Developer;Always+learning+new+tech;Clean+code+advocate" alt="Typing SVG" />
 </p>
+
+---
+
+### 🧑‍💻 About Me
+
+- 🎓 Recent CS grad from VESASC, Mumbai  
+- 🔭 Currently building **LiteWrite**, a Backend heavy Blogging web app  
+- 🛠️ Love working with JavaScript, Python, and scalable backend systems  
+- 🤝 Open to backend, full-stack, or internship opportunities  
+- 🧠 Forever learning, currently exploring: **FastAPI**, **Microservices**,  **System Design** and **AWS**
 
 ---
 
@@ -21,13 +31,16 @@
 
 ---
 
-###  Projects
+### 🚀 Projects
 
 - 🔍 **[Lens-n-Light](https://github.com/WalidTheDev/Lens-n-Light)**  
-  *Camera rental platform*
+  *A camera rental platform for creators and studios — with booking, authentication, and admin dashboard.*
 
 - 📊 **[DataLab](https://github.com/WalidTheDev/DataLab-Frontend)**  
-  *Interactive data visualization platform for rapid exploration*
+  *An interactive data science workspace — upload, clean, and run ML algorithms in-browser.*
+
+- 💼 **[LiteWrite](https://github.com/WalidTheDev/LiteWrite)** *(WIP)*  
+  *A blogging websites with many real-world features*
 
 ---
 
@@ -47,6 +60,15 @@
   </a>
   <a href="mailto:walidshaikh@example.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://twitter.com/your_x_profile" target="_blank">
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=twitter&logoColor=white"/>
+  </a>
+  <a href="https://dev.to/your_devto_username" target="_blank">
+    <img src="https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white"/>
+  </a>
+  <a href="https://your-resume-link.com" target="_blank">
+    <img src="https://img.shields.io/badge/Resume-007ACC?style=for-the-badge&logo=readthedocs&logoColor=white"/>
   </a>
 </p>
 
