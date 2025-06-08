@@ -54,26 +54,11 @@
 
 ### 📫 Connect With Me
 
-<p align="left">
-  <a href="https://linkedin.com/in/walidshaikh" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:walidshaikh@example.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://twitter.com/your_x_profile" target="_blank">
-    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=twitter&logoColor=white"/>
-  </a>
-  <a href="https://dev.to/your_devto_username" target="_blank">
-    <img src="https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white"/>
-  </a>
-  <a href="https://your-resume-link.com" target="_blank">
-    <img src="https://img.shields.io/badge/Resume-007ACC?style=for-the-badge&logo=readthedocs&logoColor=white"/>
-  </a>
-</p>
+
+- 🔗 [LinkedIn](https://linkedin.com/in/walidshaikh)  
+- 📧 walidshaikh552@gmail.com  
+- 🔗 [X / Twitter](https://twitter.com/WalidTheDev)  
+- 🔗 [Dev.to](https://dev.to/WalidTheDev)  
+- 🔗 [Resume](https://drive.google.com/file/d/101VeJPcOC7e8A1vgo1ZEVGxIsemX17fl/view)
 
 ---
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=WalidTheDev&label=Profile%20views&color=0e75b6&style=flat" alt="WalidTheDev" />
-</p>
