@@ -44,14 +44,6 @@
 
 ---
 
-### 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WalidTheDev&layout=compact&theme=radical" alt="Top Langs" />
-</p>
-
----
-
 ### 📫 Connect With Me
 
 
@@ -60,5 +52,12 @@
 - 🔗 [X / Twitter](https://twitter.com/WalidTheDev)  
 - 🔗 [Dev.to](https://dev.to/WalidTheDev)  
 - 🔗 [Resume](https://drive.google.com/file/d/101VeJPcOC7e8A1vgo1ZEVGxIsemX17fl/view)
+
+---
+### 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WalidTheDev&layout=compact&theme=radical" alt="Top Langs" />
+</p>
 
 ---
