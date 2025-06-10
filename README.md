@@ -54,3 +54,14 @@
 - 🔗 [Resume](https://drive.google.com/file/d/101VeJPcOC7e8A1vgo1ZEVGxIsemX17fl/view)
 
 ---
+<img src="https://skillicons.dev/icons?i=python,java,javascript,nodejs,typescript,express,mongodb,mysql,kotlin,postman"/><br>    
+<img src="https://skillicons.dev/icons?i=html,css,scss,react,nextjs,bootstrap,tailwind,vscode,github,figma,git,eclipse,idea,netlify,prisma" />
+</div>
+
+---
+
+<div align="center">
+  <h2>🐍 My Contributions 🐍</h2>
+  <br>
+<!--   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/KKrishna11/KKrishna11/output/github-contribution-grid-snake.svg" /> -->
+  <img src="https://raw.githubusercontent.com/WalidTheDev/WalidTheDev/output/snake.svg" alt="Snake animation" />
