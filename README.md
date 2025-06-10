@@ -19,15 +19,10 @@
 
 ### 🧰 Tech Stack
 
-<p align="left">
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-</p>
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=python,java,javascript,nodejs,express,mongodb,mysql,postman"/><br>    
+    <img src="https://skillicons.dev/icons?i=html,css,scss,react,bootstrap,tailwind,vscode,github,git" />
+</div>
 
 ---
 
@@ -52,11 +47,5 @@
 - 🔗 [X / Twitter](https://twitter.com/WalidTheDev)  
 - 🔗 [Dev.to](https://dev.to/WalidTheDev)  
 - 🔗 [Resume](https://drive.google.com/file/d/101VeJPcOC7e8A1vgo1ZEVGxIsemX17fl/view)
-
----
-<div align="center">
-    <img src="https://skillicons.dev/icons?i=python,java,javascript,nodejs,express,mongodb,mysql,postman"/><br>    
-    <img src="https://skillicons.dev/icons?i=html,css,scss,react,bootstrap,tailwind,vscode,github,git" />
-</div>
 
 ---
