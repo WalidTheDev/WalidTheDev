@@ -12,7 +12,7 @@
 - 🎓 Recent CS grad from VESASC, Mumbai  
 - 🔭 Currently building **LiteWrite**, a Backend heavy Blogging web app  
 - 🛠️ Love working with JavaScript, Python, and scalable backend systems  
-- 🤝 Open to backend, full-stack, or internship opportunities  
+- 🤝 Open to backend internship or full-time opportunities  
 - 🧠 Forever learning, currently exploring: **FastAPI**, **Microservices**,  **System Design** and **AWS**
 
 ---
