@@ -2,7 +2,7 @@
 <h3 align="center">Backend focused Developer | Python Enthusiast </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=F7F7F7&center=true&vCenter=true&width=435&lines=Passionate+Full-stack+Web+Developer;Always+learning+new+tech;Clean+code+advocate" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=F7F7F7&center=true&vCenter=true&width=435&lines=Passionate+Backend+Developer;Always+learning+new+tech;Clean+code+advocate" alt="Typing SVG" />
 </p>
 
 ---
@@ -21,7 +21,7 @@
 
 <div align="center">
     <img src="https://skillicons.dev/icons?i=python,java,javascript,nodejs,express,mongodb,mysql,postman"/><br>    
-    <img src="https://skillicons.dev/icons?i=html,css,react,bootstrap,tailwind,vscode,github,git" />
+    <img src="https://skillicons.dev/icons?i=vscode,github,git" />
 </div>
 
 ---
