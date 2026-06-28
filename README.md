@@ -33,8 +33,6 @@ A camera rental platform for creators and studios featuring secure authenticatio
 ### 📊 DataLab
 An interactive data science workspace where users can upload datasets, clean data, and run machine learning algorithms directly from the browser.
 
-### ✍️ LiteWrite *(Work in Progress)*
-A backend-focused blogging platform featuring authentication, rich text editing, comments, bookmarks, role-based authorization, and other real-world features.
 
 ---
 
