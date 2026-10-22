@@ -25,17 +25,6 @@
 
 ---
 
-## 🚀 Featured Projects
-
-### 🔍 Lens-n-Light
-A camera rental platform for creators and studios featuring secure authentication, equipment booking, and an admin dashboard.
-
-### 📊 DataLab
-An interactive data science workspace where users can upload datasets, clean data, and run machine learning algorithms directly from the browser.
-
-
----
-
 ## 📫 Connect With Me
 
 - 💼 LinkedIn: https://linkedin.com/in/walidshaikh
