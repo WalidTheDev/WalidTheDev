@@ -31,5 +31,3 @@
 - 🐦 X (Twitter): https://twitter.com/WalidTheDev
 - 📝 Dev.to: https://dev.to/WalidTheDev
 - 📧 Email: walidshaikh552@gmail.com
-- 📄 Resume: [Will update soon]
-
