@@ -19,7 +19,7 @@
 ## 🧰 Tech Stack
 
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=python,go,java,redis, nodejs,express,mongodb,mysql,postman"/><br>
+    <img src="https://skillicons.dev/icons?i=python,go,java, redis, nodejs,express,mongodb,mysql,postman"/><br>
     <img src="https://skillicons.dev/icons?i=git,github,linux" />
 </div>
 
